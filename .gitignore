@@ -1,0 +1,16 @@
+*.dat
+*.dat~
+*.pyc
+*.c
+*.so
+*.out
+*.png
+*.pickle
+*.DS_Store
+*.py~
+build/
+develop-eggs/
+eggs/
+.eggs/
+dist/
+predictPrPlus.egg-info/
